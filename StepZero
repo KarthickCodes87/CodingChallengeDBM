@@ -1,0 +1,8 @@
+Target platform - linux 
+Programming language - C
+
+For this step, I installed GBU dbm in a linux docker container. 
+# create a DB and add some keys
+# fetch the keys back
+# run gdbmtool
+# delete one of added key
